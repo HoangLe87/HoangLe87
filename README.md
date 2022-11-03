@@ -44,5 +44,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HoangLe87&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### 🥇 Top Languages 🥇:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLe87&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HoangLe87&layout=compact&theme=vision-friendly-dark)
 </div>
