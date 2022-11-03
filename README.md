@@ -16,6 +16,8 @@
 🇨🇿 a web3 developer from Czech Republic. 🇨🇿
 
 🔭 Looking forward to collaborate!
+    
+➡️ Click<a href="https://hoangle87.github.io/TheOdinProject/"> here</a> to see my latest projects.
 
 ----------------------------------------------------
 <div>  </div>
