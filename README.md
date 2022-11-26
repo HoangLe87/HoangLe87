@@ -17,8 +17,21 @@
 
 🔭 Looking forward to collaborate!
     
-➡️ Click<a href="https://hoangle87.github.io/TheOdinProject/"> here</a> to see my latest projects.
-
+➡️ Here are some of my latest projects: 
+<ul>
+  <li>
+    <p><a href="https://hoangle87.github.io/WeatherApp/"> the Weather app</a> Axios, React </p>
+  </li>
+    <li>
+      <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html"> the Sketch app</a> a paint tool using vanilla JS, HTML, and CSS </p>
+  </li>
+    <li>
+      <p><a href="https://hoangle87.github.io/TheOdinProject/JAVASCRIPT/toDoApp/dist/index.html"> the To DO app</a> a tasklist web app using core webpack and modules</p>
+  </li>
+      <li>
+      <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel</a> a fighting game using vanilla JS HTML, and CSS</p>
+  </li>
+</ul>
 ----------------------------------------------------
 <div>  </div>
  
