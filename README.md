@@ -16,19 +16,20 @@
 🇨🇿 I am from Czech Republic. 🇨🇿
 
 🔭 Looking forward to collaborate!
-    
-➡️ Here are some of my latest projects: 
-    <p><a href="https://hoangle87.github.io/WeatherApp/"> the Weather app</a> Axios, React </p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html"> the Sketch app</a> a paint tool using vanilla JS, HTML, and CSS </p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/JAVASCRIPT/toDoApp/dist/index.html"> the To DO app</a> a tasklist web app using core webpack and modules</p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel</a> a fighting game using vanilla JS HTML, and CSS</p>
 
-➡️ other fun small projects: 
-<a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/TheCalculator/index.html">Calculator, </a>
-<a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/dashboard/dist/index.html">Dashboard, </a>
-<a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/ticTacToe/index.html">Tic Tac Toe, </a>
-<a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/restaurantPage/dist/index.html">Restaurant page, </a>
-<a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/library/index.html">Library </a>
+➡️ Here are some of my latest projects: 
+    <p><a href="https://hoangle87.github.io/WeatherApp/">the Weather app:</a> Axios, React </p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">the Sketch app:</a>  a paint tool using vanilla JS, HTML, and CSS </p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/JAVASCRIPT/toDoApp/dist/index.html">the To DO app:</a>  a tasklist web app using core webpack and modules</p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel:</a> a fighting game using vanilla JS HTML, and CSS</p>
+<div>
+  ➡️ other fun small projects:<br>
+  <a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/TheCalculator/index.html">Calculator, </a>
+  <a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/dashboard/dist/index.html">Dashboard, </a>
+  <a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/ticTacToe/index.html">Tic Tac Toe, </a>
+  <a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/restaurantPage/dist/index.html">Restaurant page, </a>
+  <a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/library/index.html">Library </a>
+</div>
 ----------------------------------------------------
 <div>  </div>
  
