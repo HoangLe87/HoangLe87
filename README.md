@@ -17,7 +17,8 @@
 
 🔭 I have been programming for some time now. I am mostly interested in Front end web + mobile developement (React), Process automatisation scripting (Python), and Web3 development (Solidity)
 
-➡️ Here are some of my latest projects: 
+➡️ Here are some of my latest projects:
+    <p><a href="https://hoangle87.github.io/wavePortal/">the Blockchain wave app</a></p>
     <p><a href="https://hoangle87.github.io/WeatherApp/">the Weather app</a></p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">the Sketch app</a></p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel</a></p>
