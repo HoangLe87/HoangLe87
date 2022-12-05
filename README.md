@@ -18,12 +18,15 @@
 🔭 I have been programming for some time now. I am mostly interested in Front end web + mobile developement (React), Process automatisation scripting (Python), and Web3 development (Solidity)
 
 ➡️ Here are some of my latest projects:
-    <p><a href="https://hoangle87.github.io/wavePortal/">the Blockchain wave app</a></p>
-    <p><a href="https://hoangle87.github.io/WeatherApp/">the Weather app</a></p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">the Sketch app</a></p>
+    <p><a href="https://hoangle87.github.io/wavePortal/">the Blockchain wave app</a> wave at me on the blockchain!</p>
+    <p><a href="https://hoangle87.github.io/WeatherApp/">the Weather app</a> API fetch</p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">the Sketch app</a> DOM manipulation</p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel</a></p>
 <div>
-  ➡️ other fun small projects:<br>
+  ➡️ other web3/blockchain fun small projects:<br>
+   <p><a href="https://hoangle87.github.io/CryptoApp/"> my Mood</a>Write and read to the Goerli testnet</p>
+<div>
+  ➡️ other web2 fun small projects:<br>
   <a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/TheCalculator/index.html">Calculator, </a>
   <a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/dashboard/dist/index.html">Dashboard, </a>
   <a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/ticTacToe/index.html">Tic Tac Toe, </a>
