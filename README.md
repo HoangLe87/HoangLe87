@@ -15,7 +15,7 @@
 
 🇨🇿 I am from Czech Republic. 🇨🇿
 
-🔭 I have been programming for some time now. I am mostly interested in web and blockchain developement. Some of my projects are shown below:
+🔭 I have been programming for some time now. I am mostly interested in web and blockchain development. Some of my projects are shown below:
 
 ### ➡️ Here are some of my latest projects:
 <div>
