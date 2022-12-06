@@ -17,26 +17,30 @@
 
 🔭 I have been programming for some time now. I am mostly interested in web and blockchain developement. Some of my projects are shown below:
 
-➡️ Here are some of my latest projects:
-    <p><a href="https://nft-whitelist-qm74l4zcd-hoangle87.vercel.app/">NFT whitelist app</a> Type: "app" - solidity, hardhat practice</p>
-    <p><a href="https://hoangle87.github.io/WeatherApp/">Weather app</a> Type: "app" - API axios practice</p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">the Sketch app</a> Type "app" - DOM + JS practice</p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel</a> Type "game" - CSS + JS practice</p>
-    <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/ticTacToe/index.html">Tic Tac Toe, </a>Type: "game" - DOM practice</p>
+### ➡️ Here are some of my latest projects:
 <div>
-  ➡️ other web3 fun small projects:<br>
-    <p><a href="https://hoangle87.github.io/wavePortal/">Blockchain wave app</a> Type: "app" - solidity, hardhat practice</p>
-   <p><a href="https://hoangle87.github.io/CryptoApp/">set my Mood</a>Type: "app" - solidity, hardhat practice</p>
+    <p><a href="https://nft-whitelist-qm74l4zcd-hoangle87.vercel.app/">NFT whitelist app</a> - solidity, hardhat practice</p>
+    <p><a href="https://hoangle87.github.io/WeatherApp/">Weather app</a> - API axios practice</p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">Sketch app</a> - DOM + JS practice</p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel game</a> - CSS + JS practice</p>
+    <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/ticTacToe/index.html">TicTacToe game </a>- DOM practice</p>
+</div>
+
+### ➡️ other web3 fun small projects:
 <div>
-  ➡️ other web2 fun small projects:<br>
-  <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/TheCalculator/index.html">Calculator, </a>Type: "app" - vanilla JS practice</p>
-  <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/dashboard/dist/index.html">Dashboard, </a>Type: "landing page" - CSS Grid practice</p>
-  <p><a href="https://hoangle87.github.io/TheOdinProject/JAVASCRIPT/toDoApp/dist/index.html">ToDo app , </a>Type: "app" - DOM + JS practice</p>
-  <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/restaurantPage/dist/index.html">Restaurant page, </a>Type: "landing page" - DOM + JS practice</p>
-  <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/library/index.html">Library </a>Type: "app" - DOM + JS practice</p>
+    <p><a href="https://hoangle87.github.io/wavePortal/">Wave app</a> - solidity, hardhat practice</p>
+   <p><a href="https://hoangle87.github.io/CryptoApp/">Set my Mood</a> - solidity, hardhat practice</p>
+</div>
+
+### ➡️ other web2 fun small projects:
+<div>
+  <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/TheCalculator/index.html">Calculator app</a> - vanilla JS practice</p>
+  <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/dashboard/dist/index.html">Dashboard page</a> - CSS Grid practice</p>
+  <p><a href="https://hoangle87.github.io/TheOdinProject/JAVASCRIPT/toDoApp/dist/index.html">ToDo app</a> - DOM + JS practice</p>
+  <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/restaurantPage/dist/index.html">Restaurant page</a> - DOM + JS practice</p>
+  <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/library/index.html">Library app</a> - DOM + JS practice</p>
 </div>
 ----------------------------------------------------
-<div>  </div>
  
 <div align="center">
   
