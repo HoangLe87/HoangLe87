@@ -19,8 +19,8 @@
 
 ### ➡️ Here are some of my latest projects:
 <div>
-    <p><a href="https://nft-whitelist-qm74l4zcd-hoangle87.vercel.app/">NFT whitelist app</a> - solidity, hardhat</p>
-    <p><a href="https://hoangle87.github.io/WeatherApp/">Weather app</a> - API Axios</p>
+    <p><a href="https://nft-whitelist-qm74l4zcd-hoangle87.vercel.app/">NFT whitelist app</a> - solidity, Hardhat, NextJS</p>
+    <p><a href="https://hoangle87.github.io/WeatherApp/">Weather app</a> - API Axios, ViteJs</p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">Sketch app</a> - DOM + JS</p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/rockPaperScissors-remake/index.html"> the Duel game</a> - CSS + JS</p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/INTERMEDIATE/ticTacToe/index.html">TicTacToe game </a>- DOM + JS</p>
@@ -28,8 +28,8 @@
 
 ### ➡️ other web3 fun small projects:
 <div>
-    <p><a href="https://hoangle87.github.io/wavePortal/">Wave app</a> - solidity, hardhat</p>
-   <p><a href="https://hoangle87.github.io/CryptoApp/">Set my Mood</a> - solidity, hardhat</p>
+    <p><a href="https://hoangle87.github.io/wavePortal/">Wave app</a> - solidity, Hardhat, ViteJs</p>
+   <p><a href="https://hoangle87.github.io/CryptoApp/">Set my Mood</a> - solidity, Hardhat, ViteJs</p>
 </div>
 
 ### ➡️ other web2 fun small projects:
