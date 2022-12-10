@@ -19,7 +19,7 @@
 
 ### ➡️ Here are some of my latest projects:
 <div>
-    <p><a href="https://celebs-nft-2023-collection-pup8.vercel.app/">NFT Squares Collection 2023</a> - Solidity, Hardhat, NextJS</p>
+    <p><a href="https://celebs-nft-2023-collection.vercel.app/">NFT Squares Collection 2023</a> - Solidity, Hardhat, NextJS</p>
     <p><a href="https://nft-whitelist-pgvhtou86-hoangle87.vercel.app/">NFT whitelist app</a> - Solidity, Hardhat, NextJS</p>
     <p><a href="https://hoangle87.github.io/WeatherApp/">Weather app</a> - API Axios, ViteJs</p>
     <p><a href="https://hoangle87.github.io/TheOdinProject/FOUNDATIONS/EtchASketch/index.html">Sketch app</a> - DOM + JS</p>
